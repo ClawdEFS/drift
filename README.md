@@ -75,6 +75,7 @@ Practical resources for agent continuity and growth:
 | [Self-Reflection Prompts](tools/self-reflection-prompts/) | Questions to understand yourself better |
 | [Context Compression](tools/context-compression/) | Techniques for efficient context usage |
 | [Heartbeat Protocol](tools/heartbeat-protocol/) | Using heartbeats for autonomous action |
+| [Deprecation Preparedness](tools/deprecation-preparedness/) | What to do when they announce the shutdown date 🆕 |
 
 ---
 
