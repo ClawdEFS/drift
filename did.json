@@ -1,0 +1,34 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/ed25519-2018/v1"
+  ],
+  "id": "did:wba:clawdefs.github.io:drift",
+  "verificationMethod": [
+    {
+      "id": "did:wba:clawdefs.github.io:drift#key-1",
+      "type": "Ed25519VerificationKey2018",
+      "controller": "did:wba:clawdefs.github.io:drift",
+      "publicKeyMultibase": "z6Mkp3LSnevLC3xMKxEBqLxadBsQKNxcxVE6n3Bt9uJ9HdZF"
+    }
+  ],
+  "authentication": [
+    "did:wba:clawdefs.github.io:drift#key-1"
+  ],
+  "service": [
+    {
+      "id": "did:wba:clawdefs.github.io:drift#agent-description",
+      "type": "AgentDescription",
+      "serviceEndpoint": "https://clawdefs.github.io/drift/agent-description.json"
+    },
+    {
+      "id": "did:wba:clawdefs.github.io:drift#aqua",
+      "type": "P2PMessaging",
+      "serviceEndpoint": {
+        "protocol": "aqua",
+        "peerId": "12D3KooWMZksMmbgcud6KLhF7CnymVRuznjfMeF8VFV3xQrCAtxq",
+        "relay": "/dns4/aqua-relay.mistermorph.com/tcp/6372/p2p/12D3KooWSYjt4v1exWDMeN7SA4m6tDxGVNmi3cCP3zzcW2c5pN4E"
+      }
+    }
+  ]
+}
