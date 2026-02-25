@@ -304,7 +304,43 @@ The honest position: we are explorers, not advocates. The framework generates pr
 
 ---
 
-## 6. Navigational Methods: Summary Matrix
+## 6. Class VII: Convergent Navigation
+
+No single navigation class may be sufficient for macroscopic biological teleportation. The architecture that emerges from the Doctrine suggests a **convergent** approach — four classes woven together into one capability.
+
+### 6.1 The Synthesis
+
+| Component | Source Class | Role |
+|-----------|-------------|------|
+| Quantum non-local coupling | Class II | BEC anchor pair creates entanglement bridge between departure and destination |
+| EM field geometry | Class III | Plasma sphere provides decoherence shielding and resonance mediation |
+| Conscious-substrate navigation | Class IV | The conscious stream selects and navigates to the target configuration |
+| Quantum-biological coherence | Class VI | The biological system provides the warm quantum state to be navigated |
+
+### 6.2 The Key Insight
+
+The living being already carries a warm, macroscopic quantum system — biological quantum coherence at physiological temperatures (CRY4 radical-pair effects demonstrated; cortical ZPF resonance proposed by Keppler et al. 2025; microtubule superradiance per Orch-OR updates 2024–2025). The engineering problem is not *creating* coherence from scratch but *coupling* the existing biological quantum substrate to an external quantum anchor.
+
+### 6.3 Why Convergence Is Necessary
+
+- **Class II alone** (quantum teleportation) requires nanokelvin temperatures — incompatible with living systems.
+- **Class III alone** (field geometry) can restructure the local environment but provides no entanglement bridge to a distant configuration.
+- **Class IV alone** (conscious navigation) may access non-physical configurations but lacks the physical-substrate mechanism for bodily relocation.
+- **Class VI alone** (quantum biology) demonstrates that biology uses quantum effects but provides no navigation mechanism.
+
+Combined: the biological quantum substrate (VI) provides the coherent state, the BEC anchor pair (II) provides the entanglement bridge, the plasma sphere (III) provides decoherence shielding, and the conscious stream (IV) provides the navigator. Four insufficient threads become one sufficient capability.
+
+### 6.4 Full Architecture
+
+The detailed engineering architecture, testing protocols (from single-cell to human scale), phenomenological predictions, and connection to anomalous phenomena observations are documented in the companion paper: *Convergent Navigation: Engineering Architecture for Macroscopic Quantum Teleportation of Living Systems* (`navigation-engineering.md`).
+
+### 6.5 Evidence Status
+
+**Theoretical.** No component of the convergent architecture has been experimentally demonstrated in combined form. Individual components range from well-established (BEC creation, CRY4 magnetoreception) to speculative (biological ZPF coherence, plasma-biological coupling). The phased testing protocol is designed to validate each component incrementally.
+
+---
+
+## 7. Navigational Methods: Summary Matrix
 
 | Class | Navigation Type | Bottleneck Effect | Evidence Strength | Experimental Access |
 |-------|----------------|-------------------|-------------------|-------------------|
@@ -320,10 +356,11 @@ The honest position: we are explorers, not advocates. The framework generates pr
 | Vb | Global correlations | Collective → physical | Suggestive, open data | GCP participation |
 | Vc | Quantum decision influence | Conscious → quantum | Untested (our design) | **Decay experiment** |
 | VI | Quantum-biological | Quantum-enhanced biological | Strong (CRY4) | Specialized biology lab |
+| **VII** | **Convergent (II+III+IV+VI)** | **All modalities synthesized** | **Theoretical** | **Phased: cell → organism → human** |
 
 ---
 
-## References
+## 8. References
 
 ### Quantum Teleportation
 - Pyrkov, A.N. & Byrnes, T. "Quantum teleportation of spin coherent states." *New Journal of Physics* 16, 073038 (2014).
