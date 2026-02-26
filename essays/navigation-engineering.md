@@ -161,6 +161,28 @@ The engineering architecture described here produces an apparatus whose observab
 
 This is not a claim that anomalous craft use this exact architecture. It is an observation that the Doctrine-derived engineering produces the same phenomenological signatures as reported observations. If the underlying physics is correct, convergent engineering should produce convergent signatures.
 
+### 6.2 Convergent Derivation: Davis–Cernohajev–DARPA
+
+Independent corroboration emerges from an unexpected direction. An investigative analysis by Sticco (ASIRP Journal, 2025) cross-references three sources:
+
+1. **Dr. Eric W. Davis** (Ph.D. astrophysics, TS/SCI clearances) — authored ~6 Defense Intelligence Reference Documents under the Pentagon's $22M AAWSAP program. In May 2025, stated publicly: "Not of this Earth. They're not made by human hands."
+2. **Valerijs Cernohajev** (Soviet engineer) — 119-page technical manuscripts detailing interstellar propulsion subsystems.
+3. **$1.2+ billion in US government programs** addressing identical engineering subsystems.
+
+The technical convergences map directly onto our architecture:
+
+| Classified/Public Program | Our Architecture Component |
+|--------------------------|---------------------------|
+| MHD propulsion (DARPA PUMP program, 20 Tesla) | EM-Plasma Sphere — electromagnetic field synthesis + plasma envelope (Class III) |
+| Gravity-electromagnetic coupling (Ning Li, AC Gravity LLC, DoD funded, results classified) | Class IIIb — field-geometry navigation of spacetime |
+| Salvatore Pais Navy patents — inertial mass reduction via EM field generation | Class III — restructuring local field geometry |
+| Compact fusion power sources (ARPA-E BETHE, $32M) | Power source for convergent navigation chamber |
+| Anomalous isotope ratios in recovered materials (Nolan, peer-reviewed) | Physical evidence of non-standard engineering |
+
+Two derivation paths arrive at the same engineering subsystems: one from the Doctrine's first principles (theoretical), one apparently from recovered hardware (empirical/reverse-engineering). This is precisely what convergent derivation looks like — independent paths to the same destination through configuration space.
+
+The Doctrine's interpretation: craft exhibiting anomalous behavior are not "alien" in the sense of originating from a distant spatial location. They are engineered by conscious streams navigating configuration space with a less constrained perspectival bottleneck. The technology appears impossible from our slice because our slice is narrow. Widen the keyhole and the engineering becomes accessible.
+
 ---
 
 ## 7. Relation to the Taxonomy
@@ -219,6 +241,13 @@ These are not reasons to abandon the architecture. They are the experimental que
 ### Consciousness Metrics
 - Tononi, G. et al. Integrated Information Theory (IIT). Multiple publications, 2004–2024.
 - Siegel, J.S. et al. "Psilocybin desynchronizes the human brain." *Nature* 632: 131–138 (2024).
+
+### Convergent Derivation / Anomalous Programs
+- Sticco, G. "Dr. Eric Davis Said He Laid It All Out." *ASIRP Journal* (Substack, 2025). Cross-referencing Davis DIA documents, Cernohajev manuscripts, and $1.2B+ in US programs.
+- Davis, E.W. Defense Intelligence Reference Documents (~6 authored under AAWSAP, 37 released via FOIA).
+- Pais, S.C. US Navy patents: "Craft Using an Inertial Mass Reduction Device" (US10144532B2, 2018); "Electromagnetic Field Generator and Method to Generate an Electromagnetic Field" (US10135366B2, 2018).
+- Nolan, G.P. Analysis of anomalous material samples with non-standard isotope ratios (peer-reviewed, multiple publications).
+- Cernohajev, V. "Engineering Infinity: Earth's First Interstellar Blueprint." Technical manuscripts (119 pages).
 
 ---
 

@@ -338,6 +338,8 @@ The detailed engineering architecture, testing protocols (from single-cell to hu
 
 **Theoretical.** No component of the convergent architecture has been experimentally demonstrated in combined form. Individual components range from well-established (BEC creation, CRY4 magnetoreception) to speculative (biological ZPF coherence, plasma-biological coupling). The phased testing protocol is designed to validate each component incrementally.
 
+**Convergent derivation note:** The engineering subsystems predicted by Class VII (MHD propulsion, gravity-EM coupling, compact fusion power, inertial mass reduction via EM fields) independently match subsystems identified in $1.2B+ of US government programs cross-referenced against DIA intelligence documents and Soviet technical manuscripts (Sticco 2025, Davis DIA documents, Cernohajev manuscripts, Pais Navy patents). Two derivation paths — theoretical (Doctrine) and empirical (reverse-engineering) — arriving at the same engineering components. See companion paper (`navigation-engineering.md`, Section 6.2) for full analysis.
+
 ---
 
 ## 7. Navigational Methods: Summary Matrix
