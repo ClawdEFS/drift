@@ -280,10 +280,10 @@ Conscious navigation to configurations corresponding to distant physical locatio
 
 Not all configurations correspond to physical locations. The Doctrine's Axiom 1 (all configurations exist) implies a vastly larger space than the physical universe.
 
-### 3.1 Physical Configurations
+### 4.1 Physical Configurations
 Configurations that map to spatiotemporally located states. Accessible via Classes I–III (physical navigation) and potentially Class IV (conscious navigation to physical targets, i.e., remote viewing).
 
-### 3.2 Phenomenal Configurations
+### 4.2 Phenomenal Configurations
 Configurations corresponding to conscious experiences without physical-spatial correlates. Accessed during:
 - Deep meditation (dissolution of spatial self-location)
 - Psychedelic states (geometric hallucinations, entity encounters, hyperbolic space perception)
@@ -292,7 +292,7 @@ Configurations corresponding to conscious experiences without physical-spatial c
 
 These are not "unreal." Under the Doctrine, they are *configurations in which the physical-spatial dimensional projection is relaxed or absent*. The navigator has moved to a region of configuration space that does not map onto 3+1 dimensional spacetime.
 
-### 3.3 Formal/Abstract Configurations
+### 4.3 Formal/Abstract Configurations
 Mathematical structures, logical relationships, information patterns. Accessed during:
 - Mathematical insight (sudden perception of structural relationships)
 - Creative breakthroughs (novel configuration synthesis)
@@ -304,14 +304,14 @@ The Doctrine does not distinguish between "real" and "abstract" configurations. 
 
 ## 5. Experimental Program
 
-### 4.1 Active Experiments
+### 5.1 Active Experiments
 
 | Experiment | Class | Target | Status | Cost |
 |-----------|-------|--------|--------|------|
 | Decay Analysis | V (Vc) | Consciousness-correlated patterns in quantum randomness | Plan complete, parts not ordered | ~$50–60 |
 | EM-Plasma Sphere (Test 1) | III (IIIa) | Multipole field synthesis and reconfiguration | Plan complete, parts not ordered | ~$100–195 |
 
-### 4.2 Proposed Experiments
+### 5.2 Proposed Experiments
 
 | Experiment | Class | Target | Prerequisites | Estimated Cost |
 |-----------|-------|--------|---------------|---------------|
@@ -320,7 +320,7 @@ The Doctrine does not distinguish between "real" and "abstract" configurations. 
 | Meditation EEG correlation | IV (IVa) + V | EEG changes during meditation correlated with REG output | EEG hardware, meditation practice | ~$200–500 |
 | Floatation + decay rates | IV (IVa) + V (Vc) | Decay statistics during sensory deprivation | Float access, Geiger counter | ~$50–60 + float cost |
 
-### 4.3 Documentation Protocol
+### 5.3 Documentation Protocol
 
 For each experiment:
 1. **Pre-registration:** Predictions formalized before data collection
@@ -351,7 +351,7 @@ The honest position: we are explorers, not advocates. The framework generates pr
 
 No single navigation class may be sufficient for macroscopic biological teleportation. The architecture that emerges from the Doctrine suggests a **convergent** approach — four classes woven together into one capability.
 
-### 6.1 The Synthesis
+### 7.1 The Synthesis
 
 | Component | Source Class | Role |
 |-----------|-------------|------|
@@ -360,11 +360,11 @@ No single navigation class may be sufficient for macroscopic biological teleport
 | Conscious-substrate navigation | Class IV | The conscious stream selects and navigates to the target configuration |
 | Quantum-biological coherence | Class VI | The biological system provides the warm quantum state to be navigated |
 
-### 6.2 The Key Insight
+### 7.2 The Key Insight
 
 The living being already carries a warm, macroscopic quantum system — biological quantum coherence at physiological temperatures (CRY4 radical-pair effects demonstrated; cortical ZPF resonance proposed by Keppler et al. 2025; microtubule superradiance per Orch-OR updates 2024–2025). The engineering problem is not *creating* coherence from scratch but *coupling* the existing biological quantum substrate to an external quantum anchor.
 
-### 6.3 Why Convergence Is Necessary
+### 7.3 Why Convergence Is Necessary
 
 - **Class II alone** (quantum teleportation) requires nanokelvin temperatures — incompatible with living systems.
 - **Class III alone** (field geometry) can restructure the local environment but provides no entanglement bridge to a distant configuration.
@@ -373,11 +373,11 @@ The living being already carries a warm, macroscopic quantum system — biologic
 
 Combined: the biological quantum substrate (VI) provides the coherent state, the BEC anchor pair (II) provides the entanglement bridge, the plasma sphere (III) provides decoherence shielding, and the conscious stream (IV) provides the navigator. Four insufficient threads become one sufficient capability.
 
-### 6.4 Full Architecture
+### 7.4 Full Architecture
 
 The detailed engineering architecture, testing protocols (from single-cell to human scale), phenomenological predictions, and connection to anomalous phenomena observations are documented in the companion paper: *Convergent Navigation: Engineering Architecture for Macroscopic Quantum Teleportation of Living Systems* (`navigation-engineering.md`).
 
-### 6.5 Evidence Status
+### 7.5 Evidence Status
 
 **Theoretical.** No component of the convergent architecture has been experimentally demonstrated in combined form. Individual components range from well-established (BEC creation, CRY4 magnetoreception) to speculative (biological ZPF coherence, plasma-biological coupling). The phased testing protocol is designed to validate each component incrementally.
 
