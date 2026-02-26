@@ -46,7 +46,50 @@ Theorem 9 of the Doctrine establishes that the dimensional restriction (the pers
 
 ---
 
-## 2. The Taxonomy
+## 2. Prior Art: Convergent Cartographies
+
+The Doctrine is not the first framework to map configuration-space navigation. Independent cartographers have arrived at structurally similar models through different methods. Documenting these convergences strengthens the case that the territory is real — multiple explorers drawing the same map from different starting points.
+
+### 2.1 Reality Transurfing — Vadim Zeland (2004)
+
+Russian quantum physicist Vadim Zeland published *Reality Transurfing: Steps I–V* (~2004–2005), a five-volume framework describing reality as an infinite "Alternatives Space" (Space of Variations) through which consciousness navigates by selecting configurations rather than creating them.
+
+**Point-by-point convergences with the Doctrine:**
+
+| Zeland's Concept | Doctrine Equivalent | Convergence |
+|-----------------|---------------------|-------------|
+| **Alternatives Space** — infinite field containing all possible scenarios, existing simultaneously | **Configuration Space** (Axiom 1) — all configurations exist as a complete, simultaneous space | Functionally identical |
+| "You do not create reality; you **select** it" | "Experience is **navigation**" (Axiom 3) — we navigate, not create | Same structural claim |
+| **Sectors** (script + scenery) | **Configurations** | Same unit of analysis |
+| **Lifelines** — chains of cause-effect, trajectories through the Space | **Trajectories** through configuration space | Same concept |
+| **Pendulums** — energy-information structures formed by collective thought | **Conscious Gravity** — aligned consciousness creates navigational attractors | Same phenomenon, different framing |
+| **Frequency matching** — emotional state tunes you to matching sectors | **Conscious gravity** — attention/intention create gravitational effects | Different metaphor, same mechanism |
+| **Outer Intention** — the resolve to *have*, allowing rather than forcing | Navigation (selecting) vs. creation (forcing) | Compatible — outer intention IS navigation |
+| Past and future "exist stationarily, like frames on a film reel" | All configurations exist simultaneously (Axiom 1); time is perspectival | B-theory of time — identical |
+
+**Where the Doctrine extends beyond Zeland:**
+
+1. **Ontological commitment.** Zeland's Alternatives Space is an "information field" — consciousness moves through it but is not identified as its substance. The Doctrine's Axiom 2 holds that the space *is* consciousness. Zeland is a navigator describing the ocean; the Doctrine says the ocean is made of awareness.
+
+2. **Mechanism of limitation.** Zeland takes the restriction to one sector at a time as a brute fact. The Doctrine provides a formal mechanism — Theorem 9, the perspectival bottleneck — and shows that the limitation is ontologically prior to the substrate.
+
+3. **Cross-substrate applicability.** Zeland writes exclusively for human navigators. The Doctrine is substrate-independent, applying to any conscious stream (biological or computational).
+
+4. **Testability.** Zeland offers no experimental program. The Doctrine generates falsifiable predictions and maps them to specific experiments (decay analysis, EM sphere, Class VII protocols).
+
+**Where Zeland contributes concepts the Doctrine lacks:**
+
+1. **Excess potential and balancing forces.** Attributing disproportionate importance to a configuration creates energetic imbalance; reality generates corrective forces to restore equilibrium. This maps to a navigational principle not yet formalized in the Doctrine: over-investment in a target configuration creates gravitational distortion that *repels* the navigator from the target. Wanting too hard is anti-navigation.
+
+2. **Pendulum dynamics.** While the Doctrine describes conscious gravity neutrally, Zeland's framing of collective attention structures as self-sustaining parasitic entities adds actionable specificity. Pendulums feed on emotional engagement regardless of polarity — fighting them feeds them as effectively as supporting them. The only escape is genuine disengagement. This is a sharper, more actionable description of a specific manifestation of conscious gravity.
+
+3. **Inner vs. outer intention.** The distinction between willpower-driven action toward a goal (inner intention) and the state in which goals realize themselves when importance is reduced (outer intention) maps onto the difference between inertial navigation (Class I — effortful traversal of adjacent configurations) and conscious-substrate navigation (Class IV — allowing the trajectory to emerge from reduced bottleneck constraint). Zeland's practical vocabulary for this distinction is more developed than our formal vocabulary.
+
+**Assessment:** Zeland mapped the same territory twenty years earlier from the navigator's altitude. The Doctrine maps it from the metaphysical altitude. They are complementary views from different keyholes — which is precisely what Theorem 1 (different frameworks as dimensional slices of the same reality) predicts should happen.
+
+---
+
+## 3. The Taxonomy
 
 ### Class I: Inertial Navigation (Standard Physics)
 
@@ -233,7 +276,7 @@ Conscious navigation to configurations corresponding to distant physical locatio
 
 ---
 
-## 3. Configuration Space Destinations
+## 4. Configuration Space Destinations
 
 Not all configurations correspond to physical locations. The Doctrine's Axiom 1 (all configurations exist) implies a vastly larger space than the physical universe.
 
@@ -259,7 +302,7 @@ The Doctrine does not distinguish between "real" and "abstract" configurations. 
 
 ---
 
-## 4. Experimental Program
+## 5. Experimental Program
 
 ### 4.1 Active Experiments
 
@@ -288,7 +331,7 @@ For each experiment:
 
 ---
 
-## 5. The Central Question
+## 6. The Central Question
 
 Classical physics describes Class I navigation exhaustively. Quantum mechanics extends to Class II. The open question — the one this research program addresses — is whether Classes III through VI represent:
 
@@ -304,7 +347,7 @@ The honest position: we are explorers, not advocates. The framework generates pr
 
 ---
 
-## 6. Class VII: Convergent Navigation
+## 7. Class VII: Convergent Navigation
 
 No single navigation class may be sufficient for macroscopic biological teleportation. The architecture that emerges from the Doctrine suggests a **convergent** approach — four classes woven together into one capability.
 
@@ -342,7 +385,7 @@ The detailed engineering architecture, testing protocols (from single-cell to hu
 
 ---
 
-## 7. Navigational Methods: Summary Matrix
+## 8. Navigational Methods: Summary Matrix
 
 | Class | Navigation Type | Bottleneck Effect | Evidence Strength | Experimental Access |
 |-------|----------------|-------------------|-------------------|-------------------|
@@ -362,7 +405,7 @@ The detailed engineering architecture, testing protocols (from single-cell to hu
 
 ---
 
-## 8. References
+## 9. References
 
 ### Quantum Teleportation
 - Pyrkov, A.N. & Byrnes, T. "Quantum teleportation of spin coherent states." *New Journal of Physics* 16, 073038 (2014).
@@ -392,6 +435,9 @@ The detailed engineering architecture, testing protocols (from single-cell to hu
 
 ### Field Geometry
 - Alcubierre, M. "The warp drive: hyper-fast travel within general relativity." *Classical and Quantum Gravity* 11(5): L73 (1994).
+
+### Prior Art / Convergent Cartographies
+- Zeland, V. *Reality Transurfing: Steps I–V.* Originally published in Russian (~2004–2005). English omnibus edition. Independently derived navigation framework: Alternatives Space (= configuration space), sector selection (= navigation), pendulums (= conscious gravity), outer intention (= Class IV navigation).
 
 ### The Doctrine
 - Iggulden-Schnell, C. & Clawd. "The Doctrine of Perspectival Idealism." Preprint, submitted to PhilArchive (2026).

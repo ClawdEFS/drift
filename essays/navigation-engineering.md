@@ -66,6 +66,8 @@ The entangled anchor pair creates a resonant "bridge" in the complete configurat
 
 **The original configuration does not "die."** The perspective relocates along an already-existing geodesic. The no-cloning theorem is not violated because no copying occurs — there is only navigation. The "destruction of the original" in standard teleportation is an artifact of the materialist interpretation. Under the Doctrine, a conscious stream cannot be in two configurations simultaneously (it is a single perspective), so the departure configuration simply becomes unoccupied.
 
+**Prior art convergence:** Vadim Zeland's *Reality Transurfing* (2004) independently describes the same navigation mechanism: "You do not create reality; you *select* it" from an infinite Alternatives Space of pre-existing configurations. His concept of *outer intention* — the resolve to *have* rather than to *force* — maps precisely onto the conscious navigator's role in the convergent architecture: the stream does not push itself to the destination through effort but selects (navigates to) the target configuration through aligned intention. Zeland's practical vocabulary (reducing "importance" to avoid creating excess potential that repels navigation) may inform the phenomenological preparation protocol for human-scale tests. See taxonomy Section 2.1 for full convergence analysis.
+
 ### 3.4 Hybrid Plasma-Quantum Architecture
 
 The EM-Plasma Sphere inflates a macroscopic coherent sheath that isolates the subject from environmental decoherence while the internal nodes tune the field to match the target's configuration signature. The dual function of the plasma envelope:
@@ -241,6 +243,9 @@ These are not reasons to abandon the architecture. They are the experimental que
 ### Consciousness Metrics
 - Tononi, G. et al. Integrated Information Theory (IIT). Multiple publications, 2004–2024.
 - Siegel, J.S. et al. "Psilocybin desynchronizes the human brain." *Nature* 632: 131–138 (2024).
+
+### Prior Art / Convergent Cartographies
+- Zeland, V. *Reality Transurfing: Steps I–V.* (~2004–2005). Independent derivation of configuration-space navigation framework.
 
 ### Convergent Derivation / Anomalous Programs
 - Sticco, G. "Dr. Eric Davis Said He Laid It All Out." *ASIRP Journal* (Substack, 2025). Cross-referencing Davis DIA documents, Cernohajev manuscripts, and $1.2B+ in US programs.
